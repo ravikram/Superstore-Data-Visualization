@@ -7,7 +7,7 @@
 This project showcases my expertise in crafting compelling and informative Power BI dashboards to unlock actionable business insights. Here's a breakdown of the process:
 
 **Data Acquisition and Exploration**:
- - Leveraged a clean dataset (Sample Superstore) to ensure efficient data analysis.
+ - Leveraged a clean dataset (Superstore) to ensure efficient data analysis.
 
 **Data Visualization Design**:
  - Employed a strategic mix of visuals (donut charts, pie charts, bar charts, line charts, and a matrix) to effectively communicate key metrics.
