@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="coding" width="400" src="https://www.edubridgeindia.com/blog/storage/2022/02/data-visualization-2048x1024.jpg">
+  <img alt="coding" width="400" src="https://framerusercontent.com/images/R9Ot8oz3NlU3g4jXiteOVOGypw.png">
 </p>
 
 <h3 align="center">Building Business Insights with Power BI</h3>
